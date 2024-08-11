@@ -1,0 +1,32 @@
+{
+  "name": "moloni",
+  "version": "1.0.0",
+  "description": "implementacao moloni",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogosilva404/moloni.git#main"
+  },
+  "keywords": [
+    "moloni",
+    "nodejs",
+    "js",
+    "html",
+    "css",
+    "iaie",
+    "grupo2",
+    "apiMoloni"
+  ],
+  "author": "grupo2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogosilva404/moloni/issues"
+  },
+  "homepage": "https://github.com/diogosilva404/moloni/tree/main#readme",
+  "dependencies": {
+    "moloni": "^0.0.10"
+  }
+}
